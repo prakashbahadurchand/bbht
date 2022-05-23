@@ -33,6 +33,14 @@ echo "done"
 #Installing anew tool
  go get -u github.com/tomnomnom/anew
  echo "done"
+ 
+ #Installing gf tool
+ go get -u github.com/tomnomnom/gf
+ echo "done"
+ 
+ #Installing fff tool
+ go get -u github.com/tomnomnom/fff
+ echo "done"
 
  #Installing httprob tool
  go get -u github.com/tomnomnom/httprobe
