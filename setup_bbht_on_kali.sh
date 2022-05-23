@@ -92,4 +92,4 @@ cd findomain
 cargo build --release
 sudo cp target/release/findomain /usr/bin/
 
-echo "Happy Hacking by @Hacktub5"
+echo "Happy Hacking by @prakashbahadurchand"
